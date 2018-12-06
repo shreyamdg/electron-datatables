@@ -1,0 +1,24 @@
+{
+  "name": "tablesexample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "rebuild-modules": "electron-rebuild",
+    "start": "electron ."
+  },
+  "dependencies": {
+    "datatables.net": "^1.10.19",
+    "datatables.net-buttons": "^1.5.4",
+    "datatables.net-dt": "^1.10.19",
+    "electron": "^1.4.15",
+    "java": "^0.8.0",
+    "papaparse": "^4.6.2"
+  },
+  "devDependencies": {
+    "electron": "^3.0.4",
+    "electron-rebuild": "^1.8.2"
+  },
+  "author": "",
+  "license": "ISC"
+}
